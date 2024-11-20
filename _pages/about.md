@@ -128,7 +128,7 @@ hspace="10" wspace="20" src="images/iccv.png">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="images/aaai.png">
+hspace="10" wspace="20" src="images/aaai_new.png">
 </dt>
   <dd><a href=""><strong>	
 Scenario-Aware Meta-Learning: Ensuring Safety and Scalability in Trajectory Prediction
