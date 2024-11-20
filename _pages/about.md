@@ -103,7 +103,7 @@ hspace="10" wspace="20" src="images/tomm.png">
 
 <dl>
   <dt><img align="left" width="250"
-hspace="10" wspace="20" src="../images/GIS.png">
+hspace="10" wspace="20" src="images/GIS.png">
 </dt>
   <dd><a href="https://ieeexplore.ieee.org/document/10247973"><strong>Study on Forest Fire Diffusion Method Based on Cellular Automata</strong></a></dd>
 <dd>Tonghe Zhang&dagger;, Qingxiang Meng*&dagger; , Jinchun Liu, <u><strong>Qifan Liang</strong></u></dd>
@@ -116,7 +116,7 @@ hspace="10" wspace="20" src="../images/GIS.png">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/iccv.png">
+hspace="10" wspace="20" src="images/iccv.png">
 </dt>
   <dd><strong>Smokeformer: A Mask-Driven Dynamic Transformer Framework for Endoscopic Video Smoke Removal and a Novel Benchmark Dataset</strong></dd>
 <dd><strong><u>Qifan Liang</u></strong>, Zhen Han*, Junlin Li, Yibing Bai, Zhongyuan Wang</dd>
@@ -128,7 +128,7 @@ hspace="10" wspace="20" src="../images/iccv.png">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/aaai.png">
+hspace="10" wspace="20" src="images/aaai.png">
 </dt>
   <dd><a href=""><strong>	
 Scenario-Aware Meta-Learning: Ensuring Safety and Scalability in Trajectory Prediction
