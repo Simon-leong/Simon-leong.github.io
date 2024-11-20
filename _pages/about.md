@@ -87,11 +87,9 @@ My research interests :
 
 <sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author
 
-<img src="../images/tomm.png" alt="TOMM Image" width="400">
-
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/tomm.png">
+hspace="10" wspace="20" src="images/tomm.png">
 </dt>
   <dd><a href="https://dl.acm.org/doi/10.1145/3672400"><strong>Few-Shot Face Sketch-to-Photo Synthesis via Global-Local Asymmetric Image-to-Image Translation
 </strong></a></dd>
