@@ -87,7 +87,7 @@ My research interests :
 
 <sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author
 
-<img src="/images/tomm.png" alt="TOMM Image" width="400">
+<img src="../images/tomm.png" alt="TOMM Image" width="400">
 
 <dl>
   <dt><img align="left" width="400"
