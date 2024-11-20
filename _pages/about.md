@@ -116,7 +116,7 @@ hspace="10" wspace="20" src="images/CPGIS.png">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="images/iccv.png">
+hspace="10" wspace="20" src="images/iccv_new.png">
 </dt>
   <dd><strong>Smokeformer: A Mask-Driven Dynamic Transformer Framework for Endoscopic Video Smoke Removal and a Novel Benchmark Dataset</strong></dd>
 <dd><strong><u>Qifan Liang</u></strong>, Zhen Han*, Junlin Li, Yibing Bai, Zhongyuan Wang</dd>
@@ -128,7 +128,7 @@ hspace="10" wspace="20" src="images/iccv.png">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="images/aaai_new.png">
+hspace="10" wspace="20" src="images/aaai_new_new.png">
 </dt>
   <dd><a href=""><strong>	
 Scenario-Aware Meta-Learning: Ensuring Safety and Scalability in Trajectory Prediction
