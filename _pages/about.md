@@ -89,7 +89,7 @@ My research interests :
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="images/tomm.png">
+hspace="10" wspace="20" src="images/tomm_new.png">
 </dt>
   <dd><a href="https://dl.acm.org/doi/10.1145/3672400"><strong>Few-Shot Face Sketch-to-Photo Synthesis via Global-Local Asymmetric Image-to-Image Translation
 </strong></a></dd>
@@ -103,7 +103,7 @@ hspace="10" wspace="20" src="images/tomm.png">
 
 <dl>
   <dt><img align="left" width="250"
-hspace="10" wspace="20" src="images/GIS.png">
+hspace="10" wspace="20" src="images/CPGIS.png">
 </dt>
   <dd><a href="https://ieeexplore.ieee.org/document/10247973"><strong>Study on Forest Fire Diffusion Method Based on Cellular Automata</strong></a></dd>
 <dd>Tonghe Zhang&dagger;, Qingxiang Meng*&dagger; , Jinchun Liu, <u><strong>Qifan Liang</strong></u></dd>
