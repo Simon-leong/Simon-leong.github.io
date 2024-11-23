@@ -109,7 +109,7 @@ hspace="10" wspace="20" src="images/CPGIS.png">
 </dt>
   <dd><a href="https://ieeexplore.ieee.org/document/10247973"><strong>Study on Forest Fire Diffusion Method Based on Cellular Automata</strong></a></dd>
 <dd>Tonghe Zhang&dagger;, Qingxiang Meng*&dagger; , Jinchun Liu, <u><strong>Qifan Liang</strong></u></dd>
-<dd>International Conference on Geoinformatics(<strong>CPGIS</strong>)</dd>, 2023
+<dd>International Conference on Geoinformatics(<strong>CPGIS</strong>), 2023</dd>
 <dd><strong> Responsibilities: </strong></dd>
 <dd> (1)Problem Analysing (forest fire perdiction); (2)Algorithms Designing; (3)Software Developing </dd>
 </dl>
