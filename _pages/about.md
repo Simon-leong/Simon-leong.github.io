@@ -96,7 +96,7 @@ hspace="10" wspace="20" src="images/tomm_new.png">
 <dd>Yongkang Li, <strong><u>Qifan Liang</u></strong>, Wenjun Mai, Zhen Han*, Zhenhua Wang</dd>
     <dd>ACM Transactions on Multimedia Computing, Communications, and Applications (<strong>TOMM</strong>), 2024 </dd>
 <dd><strong> Responsibilities: </strong></dd>
-<dd> (1)Problem Analysing (few-shot image-to-image translation); (2)Algorithms Designing (style transfer etc.); (3)Experiments Analysing; (4)Paper Writing </dd>
+<dd> (1) Problem Analysing (few-shot image-to-image translation); (2) Algorithms Designing (style transfer etc.); (3) Experiments Analysing; (4) Paper Writing </dd>
 </dl>
 
 
@@ -111,7 +111,7 @@ hspace="10" wspace="20" src="images/CPGIS.png">
 <dd>Tonghe Zhang&dagger;, Qingxiang Meng*&dagger; , Jinchun Liu, <u><strong>Qifan Liang</strong></u></dd>
 <dd>International Conference on Geoinformatics(<strong>CPGIS</strong>), 2023</dd>
 <dd><strong> Responsibilities: </strong></dd>
-<dd> (1)Problem Analysing (forest fire perdiction); (2)Algorithms Designing; (3)Software Developing </dd>
+<dd> (1) Problem Analysing (forest fire perdiction); (2) Algorithms Designing; (3) Software Developing </dd>
 </dl>
 
 <hr>
@@ -125,7 +125,7 @@ hspace="10" wspace="20" src="images/iccv_new.png">
   <dd><strong>Smokeformer: A Mask-Driven Dynamic Transformer Framework for Endoscopic Video Smoke Removal and a Novel Benchmark Dataset</strong></dd>
 <dd><strong><u>Qifan Liang</u></strong>, Zhen Han*, Junlin Li, Yibing Bai, Zhongyuan Wang</dd>
 <dd><strong> Responsibilities: </strong></dd>
-<dd> (1)Problem Analysing (surgical video de-smoking); (2)Dataset Designing (synthetic smoke videos/paired smoke masks); (3)Algorithms Designing; (4)Experiments Analysing </dd>
+<dd> (1) Problem Analysing (surgical video de-smoking); (2) Dataset Designing (synthetic smoke videos/paired smoke masks); (3) Algorithms Designing; (4) Experiments Analysing </dd>
 </dl>
 
 <hr>
@@ -139,7 +139,7 @@ Scenario-Aware Meta-Learning: Ensuring Safety and Scalability in Trajectory Pred
 </strong></a></dd>
 <dd><strong><u>Qifan Liang&dagger;</u></strong>, Shengyi Li&dagger;, Haoying Li, Jens Rittscher* </dd>
 <dd><strong> Responsibilities: </strong></dd>
-<dd> (1)Problem Analysing (long-tail samples); (2)Algorithms Designing (meta-learning); (3)Model Deploying </dd>
+<dd> (1) Problem Analysing (long-tail samples); (2) Algorithms Designing (meta-learning); (3) Experiments Analysing </dd>
 </dl>
 
 <hr>
