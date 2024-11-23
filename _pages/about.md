@@ -95,10 +95,7 @@ hspace="10" wspace="20" src="images/tomm_new.png">
 </strong></a></dd>
 <dd>Yongkang Li, <strong><u>Qifan Liang</u></strong>, Wenjun Mai, Zhen Han*, Zhenhua Wang</dd>
     <dd>ACM Transactions on Multimedia Computing, Communications, and Applications (<strong>TOMM</strong>), 2024 </dd>
-<dd>- Problem Analysing (few-shot image-to-image translation)
- Algorithms Designing (style transfer etc. )
- Experiments Analysing 
- Paper Writing</dd>
+<dd> (1)Problem Analysing (few-shot image-to-image translation); (2)Algorithms Designing (style transfer etc.); (3)Experiments Analysing; (4)Paper Writing </dd>
 </dl>
 
 
