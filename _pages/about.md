@@ -152,7 +152,7 @@ Scenario-Aware Meta-Learning: Ensuring Safety and Scalability in Trajectory Pred
 
 <dl>
   <dt><img align="left" width="360"
-hspace="10" wspace="20" src="images/senhuo.gif">
+hspace="10" wspace="20" src="images/senhuo.GIF">
 </dt>
   <dd><a href="https://github.com/Simon-leong/SenHuo-Forest-Fire-Intelligence-Integration-Software-System-UI"><strong>Multi-Source Perception and Intelligent Prediction Emergency Monitoring Platform for Forest Fires</strong></a></dd>
   <dd><strong> Responsibilities: </strong></dd>
@@ -165,7 +165,7 @@ hspace="10" wspace="20" src="images/senhuo.gif">
 
 <dl>
   <dt><img align="left" width="200"
-hspace="10" wspace="20" src="images/tower.gif">
+hspace="10" wspace="20" src="images/tower.GIF">
 </dt>
   <dd><strong>All-Weather Monitoring System for Power Transmission Towers Using Thermal Infrared Technology</strong></dd>
   <dd><strong> Responsibilities: </strong></dd>
