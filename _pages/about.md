@@ -135,9 +135,9 @@ hspace="10" wspace="20" src="images/iccv_new.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="images/aaai_new_new.png">
 </dt>
-  <dd><a href=""><strong>	
+  <dd><strong>	
 Scenario-Aware Meta-Learning: Ensuring Safety and Scalability in Trajectory Prediction
-</strong></a></dd>
+</strong></dd>
 <dd><strong><u>Qifan Liang&dagger;</u></strong>, Shengyi Li&dagger;, Haoying Li, Jens Rittscher* </dd>
 <dd><strong> Responsibilities: </strong></dd>
 <dd> (1) Problem Analysing (long-tail samples); (2) Algorithms Designing (meta-learning); (3) Experiments Analysing </dd>
@@ -148,6 +148,33 @@ Scenario-Aware Meta-Learning: Ensuring Safety and Scalability in Trajectory Pred
 **<u>The above 2 papers will be submitted to Top-tier conferences (2025 ICCV & 2025 ACM MM).</u>**
 <hr>
 
+# 🎡 Projects
+
+<dl>
+  <dt><img align="left" width="360"
+hspace="10" wspace="20" src="images/senhuo.gif">
+</dt>
+  <dd><a href="https://github.com/Simon-leong/SenHuo-Forest-Fire-Intelligence-Integration-Software-System-UI"><strong>Multi-Source Perception and Intelligent Prediction Emergency Monitoring Platform for Forest Fires</strong></a></dd>
+  <dd><strong> Responsibilities: </strong></dd>
+<dd> (1) Team work organization; (2) Algorithm design; (3) Software implementation </dd>
+<dd><strong> Awards: </strong></dd>
+<dd> (1) National Second Prize (Top 0.7%) in 2023 Chinese Collegiate Computing Competition; (2) National First Prize (Top 1.7%)in 2023 China “Dingxin Cup” National Youth Innovation and Entrepreneurship Competition; (3) National Grand Prize (Top 0.5%) in 2023 National University Student Surveying and Mapping Discipline Intelligence Competition </dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="200"
+hspace="10" wspace="20" src="images/tower.gif">
+</dt>
+  <dd><strong>All-Weather Monitoring System for Power Transmission Towers Using Thermal Infrared Technology</strong></dd>
+  <dd><strong> Responsibilities: </strong></dd>
+<dd> (1) Algorithm design; (2) Hardware implementation; (3) Software implementation </dd>
+<dd><strong> Awards: </strong></dd>
+<dd> (1) National Second Prize (Top 0.7%) in 2024 Chinese Collegiate Computing Competition; (2) National University Students’Innovation and Entrepreneurship Fund (Top 3%, school-wide) of WHU </dd>
+</dl>
+
+<hr>
 
 # 🏅 Honors and Awards
 
