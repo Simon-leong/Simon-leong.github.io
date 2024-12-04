@@ -158,7 +158,7 @@ hspace="10" wspace="20" src="images/senhuo.GIF">
   <dd><strong> Responsibilities: </strong></dd>
 <dd> (1) Team work organization; (2) Algorithm design; (3) Software implementation </dd>
 <dd><strong> Awards: </strong></dd>
-<dd> (1) National Second Prize (Top 0.7%) in 2023 Chinese Collegiate Computing Competition; (2) National First Prize (Top 1.7%)in 2023 China “Dingxin Cup” National Youth Innovation and Entrepreneurship Competition; (3) National Grand Prize (Top 0.5%) in 2023 National University Student Surveying and Mapping Discipline Intelligence Competition </dd>
+<dd> (1) National Second Prize <strong>(Top 0.7%)</strong> in 2023 Chinese Collegiate Computing Competition; (2) National First Prize <strong>(Top 1.7%)</strong> in 2023 China “Dingxin Cup” National Youth Innovation and Entrepreneurship Competition; (3) National Grand Prize <strong>(Top 0.5%)</strong> in 2023 National University Student Surveying and Mapping Discipline Intelligence Competition </dd>
 </dl>
 
 <hr>
@@ -171,7 +171,7 @@ hspace="10" wspace="20" src="images/tower.GIF">
   <dd><strong> Responsibilities: </strong></dd>
 <dd> (1) Algorithm design; (2) Hardware implementation; (3) Software implementation </dd>
 <dd><strong> Awards: </strong></dd>
-<dd> (1) National Second Prize (Top 0.7%) in 2024 Chinese Collegiate Computing Competition; (2) National University Students’Innovation and Entrepreneurship Fund (Top 3%, school-wide) of WHU </dd>
+<dd> (1) National Second Prize <strong>(Top 0.7%)</strong> in 2024 Chinese Collegiate Computing Competition; (2) National University Students’Innovation and Entrepreneurship Fund <strong>(Top 3%, school-wide)</strong> of WHU </dd>
 </dl>
 
 <hr>
