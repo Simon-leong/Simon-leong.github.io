@@ -152,7 +152,7 @@ Scenario-Aware Meta-Learning: Ensuring Safety and Scalability in Trajectory Pred
 
 <dl>
   <dt><img align="left" width="360"
-hspace="10" wspace="20" src="images/senhuo.GIF">
+hspace="10" wspace="20" src="images/senhuo_new.GIF">
 </dt>
   <dd><a href="https://github.com/Simon-leong/SenHuo-Forest-Fire-Intelligence-Integration-Software-System-UI"><strong>Multi-Source Perception and Intelligent Prediction Emergency Monitoring Platform for Forest Fires</strong></a></dd>
   <dd><strong> Responsibilities: </strong></dd>
