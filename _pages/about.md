@@ -70,18 +70,20 @@ My research interests :
 # 🔥 News
 
 - 2024.11: I won the DiDi Inc. Outstanding Undergraduate Scholarship (**6/685 in department**) of WHU.
+- 2024.10: I ranked **17/227** in the 2024 annual comprehensive assessment.
 - 2024.10: I won the Second-Class Scholarship (**Top10%**, school-wide) and was graded as Merit Student (**Top5%**, school-wide) of WHU.
 - 2024.09: One **Chinese Software Copyright** "All-weather High-precision Transmission Tower Vibration Monitoring System" has been published.
-- 2024.06: My project "All-Weather Monitoring System for Power Transmission Towers Using Thermal Infrared Technology" received National Second Prize (**Top 0.7%**) in 2024 Chinese Collegiate Computing Competition.
+- 2024.06: My new project has won **2** national awards in 2024.
 - 2024.05: One paper is accepted by [ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**)](https://dl.acm.org/doi/10.1145/3672400).
 - 2024.05: I won the National University Students’Innovation and Entrepreneurship Fund (**Top 3%**, school-wide) of WHU.
 - 2024.03: I won the Lei Jun Computer Innovation and Development Fund (**Top 7.2%**, in major) of WHU.
 - 2023.11: I won the Samsung Group Outstanding Undergraduate Scholarship (**1/685 in department**) of WHU.
+- 2023.10: I ranked **2/227** in the 2023 annual comprehensive assessment.
 - 2023.10: I won the First-Class Scholarship (**Top5%**, school-wide) and was graded as Merit Student (**Top5%**, school-wide) of WHU.
 - 2023.09: One **Chinese Software Copyright** "Innovative Integrated Platform for Emergency Monitoring of Forest Fires" has been published.
 - 2023.07: One **Chinese patent** "Method for Smoke Removal in Fire Images Based on Improved Cycle-Dehaze Neural Network" has been published.
 - 2023.07: One paper is accepted by ["2023 30th International Conference on Geoinformatics"](https://ieeexplore.ieee.org/document/10247973).
-- 2023.06: My project ["Multi-Source Perception and Intelligent Prediction Emergency Monitoring Platform for Forest Fires"](https://github.com/Simon-leong/SenHuo-Forest-Fire-Intelligence-Integration-Software-System-UI) received National Second Prize (**Top 0.7%**) in 2023 Chinese Collegiate Computing Competition, National First Prize（**Top 1.7%**）in 2023 China “Dingxin Cup” National Youth Innovation and Entrepreneurship Competition, and National Grand Prize（**Top 0.5%**）in 2023 National University Student Surveying and Mapping Discipline Intelligence Competition.
+- 2023.06: [My program](https://github.com/Simon-leong/SenHuo-Forest-Fire-Intelligence-Integration-Software-System-UI) has won **3** national awards in 2023.
 - 2022.10: I won the Third-Class Scholarship (**Top15%**, school-wide) and was graded as Outstanding Student (**Top30%**, school-wide) of WHU.
 
 # 📝 Publications
@@ -181,8 +183,8 @@ hspace="10" wspace="20" src="images/tower.GIF">
 - *2024.11* **Outstanding Undergraduate Scholarship** (Award Rate: 10/685, major-wide) *DiDi Inc.*
 - *2024.10* **Merit Student** (Award Rate: 5%, school-wide) *Wuhan University*
 - *2024.10* **Second-Class Scholarship** (Award Rate: 10%,school-wide) *Wuhan University*
-- *2024.08* **National Second Prize** (Award Rate: 0.7%, nation-wide) *Wuhan University*
-- *2024.05* **National University Students’Innovation and Entrepreneurship Fund** (Award Rate: 3%, school-wide) *2024 Chinese Collegiate Computing Competition*
+- *2024.08* **National Second Prize** (Award Rate: 0.7%, nation-wide) *2024 Chinese Collegiate Computing Competition*
+- *2024.05* **National University Students’Innovation and Entrepreneurship Fund** (Award Rate: 3%, school-wide) *Wuhan University*
 - *2024.03* **Lei Jun Computer Innovation and Development Fund** (Award Rate: 7.2%, major-wide) *Xiaomi Corporation*
 - *2023.11* **Outstanding Undergraduate Scholarship** (Award Rate: 1/685, major-wide) *Samsung Group*
 - *2023.10* **Merit Student** (Award Rate: 5%, school-wide) *Wuhan University*
@@ -196,7 +198,7 @@ hspace="10" wspace="20" src="images/tower.GIF">
 
 # 📖 Educations
 
-- *2021.09 - 2025.06*, Undergraduate, [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), China. B.E. in Engineering. **(GPA: 90.92; Ranked 2/227 (Top 1%) in the 2022-2023 and 17/227 (Top 7%) in the 2023-2024 composite measurements, respectively)**
+- *2021.09 - 2025.06*, Undergraduate, [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), China. B.E. in Engineering. **(GPA: 90.92; Ranked Top 1% in the 2022-2023 and Top 7% in the 2023-2024, respectively)**
 
 
 # 💻 Internships
