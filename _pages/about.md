@@ -83,7 +83,7 @@ My research interests :
 - 2023.09: One **Chinese Software Copyright** "Innovative Integrated Platform for Emergency Monitoring of Forest Fires" has been published.
 - 2023.07: One **Chinese patent** "Method for Smoke Removal in Fire Images Based on Improved Cycle-Dehaze Neural Network" has been published.
 - 2023.07: One paper is accepted by ["2023 30th International Conference on Geoinformatics"](https://ieeexplore.ieee.org/document/10247973).
-- 2023.06: [My program](https://github.com/Simon-leong/SenHuo-Forest-Fire-Intelligence-Integration-Software-System-UI) has won **3** national awards in 2023.
+- 2023.06: [My project](https://github.com/Simon-leong/SenHuo-Forest-Fire-Intelligence-Integration-Software-System-UI) has won **3** national awards in 2023.
 - 2022.10: I won the Third-Class Scholarship (**Top15%**, school-wide) and was graded as Outstanding Student (**Top30%**, school-wide) of WHU.
 
 # 📝 Publications
