@@ -63,7 +63,7 @@ Greetings! I am Qifan Liang (Simon Leong), a current undergraduate student major
 
 My research interests : 
 - **Fundamentals and applications** of deep learning algorithms, and design of training strategies for **few-shot scenarios**. 
-- Exploring the recovery of **visually distorted elements** (smoke, haze) in dynamic environments, especially in the medical field. 
+- Exploring the recovery of **visually distorted elements** (smoke, haze, shadow) in dynamic environments, especially in the medical field. 
 - **Human-centered visual perception** and **2D/3D scene understanding**.
 
 
@@ -128,7 +128,7 @@ hspace="10" wspace="20" src="images/iccv_new.png">
   <dd><strong>Smokeformer: A Mask-Driven Dynamic Transformer Framework for Endoscopic Video Smoke Removal and a Novel Benchmark Dataset</strong></dd>
 <dd><strong><u>Qifan Liang</u></strong>, Zhen Han*, Junlin Li, Yibing Bai, Zhongyuan Wang</dd>
 <dd><strong> Responsibilities: </strong></dd>
-<dd> (1) Problem Analysing (surgical video de-smoking); (2) Dataset Designing (synthetic smoke videos/paired smoke masks); (3) Algorithms Designing; (4) Experiments Analysing </dd>
+<dd> (1) Problem Analysing (surgical video de-smoking); (2) Dataset Designing (synthetic smoke videos/paired smoke masks); (3) Algorithms Designing; (4) Experiments Analysing; (5) Paper Writing </dd>
 </dl>
 
 <hr>
@@ -142,7 +142,7 @@ Scenario-Aware Meta-Learning: Ensuring Safety and Scalability in Trajectory Pred
 </strong></dd>
 <dd><strong><u>Qifan Liang&dagger;</u></strong>, Shengyi Li&dagger;, Haoying Li, Jens Rittscher* </dd>
 <dd><strong> Responsibilities: </strong></dd>
-<dd> (1) Problem Analysing (long-tail samples); (2) Algorithms Designing (meta-learning); (3) Experiments Analysing </dd>
+<dd> (1) Problem Analysing (long-tail samples); (2) Algorithms Designing (meta-learning); (3) Experiments Analysing; (4) Paper Writing </dd>
 </dl>
 
 <hr>
@@ -198,7 +198,7 @@ hspace="10" wspace="20" src="images/tower.GIF">
 
 # 📖 Educations
 
-- *2021.09 - 2025.06*, Undergraduate, [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), China. B.E. in Engineering. **(GPA: 90.92; Ranked Top 1% in the 2022-2023 and Top 7% in the 2023-2024, respectively)**
+- *2021.09 - 2025.06*, Undergraduate, [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), China. B.E. in Engineering. **(GPA: 90.97; Ranked Top 1% in the 2022-2023 and Top 7% in the 2023-2024, respectively)**
 
 
 # 💻 Internships
