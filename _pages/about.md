@@ -69,7 +69,7 @@ My research interests :
 
 # 🔥 News
 
-- 2025.03: I received the honor of Outstanding Graduate of the School of Computer Science of WHU.
+- 2025.03: I received the honor of **Outstanding Graduate** of the School of Computer Science of WHU.
 - 2024.11: I won the DiDi Inc. Outstanding Undergraduate Scholarship (**6/685 in department**) of WHU.
 - 2024.10: I ranked **17/227** in the 2024 annual comprehensive assessment.
 - 2024.10: I won the Second-Class Scholarship (**Top10%**, school-wide) and was graded as Merit Student (**Top5%**, school-wide) of WHU.
