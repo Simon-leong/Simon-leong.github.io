@@ -69,6 +69,7 @@ My research interests :
 
 # 🔥 News
 
+- 2025.03: I received the honor of Outstanding Graduate of the School of Computer Science of WHU.
 - 2024.11: I won the DiDi Inc. Outstanding Undergraduate Scholarship (**6/685 in department**) of WHU.
 - 2024.10: I ranked **17/227** in the 2024 annual comprehensive assessment.
 - 2024.10: I won the Second-Class Scholarship (**Top10%**, school-wide) and was graded as Merit Student (**Top5%**, school-wide) of WHU.
@@ -180,6 +181,7 @@ hspace="10" wspace="20" src="images/tower.GIF">
 
 # 🏅 Honors and Awards
 
+- *2025.03* **Outstanding Graduate** *Wuhan University*
 - *2024.11* **Outstanding Undergraduate Scholarship** (Award Rate: 10/685, major-wide) *DiDi Inc.*
 - *2024.10* **Merit Student** (Award Rate: 5%, school-wide) *Wuhan University*
 - *2024.10* **Second-Class Scholarship** (Award Rate: 10%,school-wide) *Wuhan University*
