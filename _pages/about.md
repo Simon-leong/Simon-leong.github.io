@@ -69,8 +69,8 @@ My research interests :
 
 # 🔥 News
 
-- 2025.07: Two papers will be submitted to AAAI-26, including one as the first author and one as a co-first author.
-- 2025.05: My undergraduate thesis was awarded as an Outstanding Graduation Thesis.
+- 2025.07: Two papers will be submitted to **AAAI-26**, including one as the **first author** and one as a **co-first author**.
+- 2025.05: My undergraduate thesis was awarded as an **Outstanding Graduation Thesis**.
 - 2025.05: I received both the Lei Jun Computer Innovation and Development Grant and the Lei Jun Computer Research Grant.
 - 2025.03: I received the honor of **Outstanding Graduate** of the School of Computer Science of WHU.
 - 2024.11: I won the DiDi Inc. Outstanding Undergraduate Scholarship (**6/685 in department**) of WHU.
@@ -104,7 +104,9 @@ hspace="10" wspace="20" src="images/tomm_new.png">
 
 <hr >
 
-##  🖨️In submission & Manuscripts
+##  🖨️ Manuscripts
+
+<sup> **Note:** The following manuscript is not under submission and does not violate any double-blind review policies. </sup>
 
 <dl>
   <dt><img align="left" width="400"
