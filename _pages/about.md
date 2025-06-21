@@ -134,9 +134,6 @@ Scenario-Aware Meta-Learning: Ensuring Safety and Scalability in Trajectory Pred
 
 <hr>
 
-**<u>The above 2 papers will be submitted to 2025 Top-tier conferences.</u>**
-<hr>
-
 # 🎡 Projects
 
 <dl>
