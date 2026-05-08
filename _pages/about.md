@@ -669,3 +669,7 @@ Feel free to reach out if you are interested in collaboration or potential oppor
 - Presenter, Annual Meeting of the Association for Computational Linguistics (ACL 2026)
 - Conference Participant, China Computer Federation (CCF) Computer Networking Conference, Wenzhou, China, 2023
 - Conference Participant, Intelligent Transportation Networking and Telematics Yongjia Forum, Yongjia, China, 2023
+
+<div style="margin-top: 48px; text-align: center;">
+  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=ouYHKiS5gtmRUvr2Q1TXc7hbIRZKTtdIeFuqNO38pjI"></script>
+</div>
