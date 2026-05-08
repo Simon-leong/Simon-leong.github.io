@@ -670,6 +670,6 @@ Feel free to reach out if you are interested in collaboration or potential oppor
 - Conference Participant, China Computer Federation (CCF) Computer Networking Conference, Wenzhou, China, 2023
 - Conference Participant, Intelligent Transportation Networking and Telematics Yongjia Forum, Yongjia, China, 2023
 
-<div style="margin-top: 48px; text-align: center;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=E19svFXhNl-NvlQ9D8WYML9reL0DgcN2SeacEpzMfX4&cl=ffffff&w=a"></script>
+<div style="margin-top: 48px; text-align: center; max-width: 500px; margin-left: auto; margin-right: auto;">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=E19svFXhNl-NvlQ9D8WYML9reL0DgcN2SeacEpzMfX4&cl=ffffff&w=500"></script>
 </div>
