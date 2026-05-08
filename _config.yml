@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qifan Liang's Homepage"
-description              : "Qifan [from] WHU [to] NUS"
+description              : "Qifan Liang's Homepage"
 repository               : "Simon-leong/Simon-leong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +22,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qifan Liang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Undergraduate Student"
-  location         : "Wuhan, China"
+  pronouns         : "He/Him"
+  avatar           : "images/new/photo.jpg"
+  bio              : "Graduate Student at NUS"
+  location         : "Singapore"
   employer         :
-  pubmed           : 
-  googlescholar    : 
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=XJU7FyUAAAAJ"
   email            : "liangqifan@whu.edu.com"
+  wechat           : true
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
