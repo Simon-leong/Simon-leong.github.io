@@ -420,7 +420,7 @@ redirect_from:
 </body>
 </html>
 
-Hi! I am Qifan Liang (Simon Leong), a graduate student (MComp AI) at the [Sound and Music Computing Lab](https://smcnus.comp.nus.edu.sg/), National University of Singapore, supervised by Prof. [Ye Wang](https://www.comp.nus.edu.sg/cs/people/wangye/). Previously, I conducted computer vision research under Prof. [Jens Rittscher](https://scholar.google.com/citations?user=ED4V7hEAAAAJ) at Oxford University and Prof. [Zhen Han](http://multimedia.whu.edu.cn/index.php?a=show&catid=69&id=135), Prof. [Zhongyuan Wang](https://scholar.google.com/citations?user=C76RWZMAAAAJ&hl=zh-CN&inst=3212728378801010220) at [National Multimedia Software Engineering Technology Research Center](https://multimedia.whu.edu.cn/index.htm), Wuhan University. 
+Hi! I am Qifan Liang (Simon Leong), a first-year master student (MComp AI) at the [Sound and Music Computing Lab](https://smcnus.comp.nus.edu.sg/), National University of Singapore, supervised by Prof. [Ye Wang](https://www.comp.nus.edu.sg/cs/people/wangye/). Previously, I conducted computer vision research under Prof. [Jens Rittscher](https://scholar.google.com/citations?user=ED4V7hEAAAAJ) at Oxford University and Prof. [Zhen Han](http://multimedia.whu.edu.cn/index.php?a=show&catid=69&id=135), Prof. [Zhongyuan Wang](https://scholar.google.com/citations?user=C76RWZMAAAAJ&hl=zh-CN&inst=3212728378801010220) at [National Multimedia Software Engineering Technology Research Center](https://multimedia.whu.edu.cn/index.htm), Wuhan University. 
 
 Feel free to reach out if you are interested in collaboration or potential opportunities!
 
