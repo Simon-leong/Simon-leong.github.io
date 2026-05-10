@@ -468,7 +468,7 @@ Feel free to reach out if you are interested in collaboration or potential oppor
   <div class="experience-card">
     <img src="images/NUS.png" alt="NUS logo" class="experience-logo">
     <div class="experience-info">
-      <strong>National University of Singapore</strong><br>
+      <strong>National University of Singapore - SMC Lab</strong><br>
       <em>2025.11 – Present</em><br>
       Master of Computing (AI) at <a href="https://smcnus.comp.nus.edu.sg/"><em>Sound and Music Computing Lab</em></a>, supervised by Prof. <a href="https://www.comp.nus.edu.sg/cs/people/wangye/"><em>Ye Wang</em></a>
     </div>
