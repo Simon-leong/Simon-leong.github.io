@@ -367,6 +367,14 @@ redirect_from:
         animation: oral-pulse 2.4s ease-in-out infinite;
     }
 
+    /* ===== Equal-contribution marker ===== */
+    .eq-contrib {
+        color: #ca6f6f;
+        font-weight: 800;
+        font-size: 1.05em;
+        margin: 0 1px;
+    }
+
     /* ===== Award & Service lists ===== */
     .award-list, .service-list {
         list-style: none;
@@ -499,9 +507,30 @@ Feel free to reach out if you are interested in collaboration or potential oppor
 <button class="pub-button active" onclick="filterPublications(event, 'all')">Core Publications</button>
 <button class="pub-button" onclick="filterPublications(event, 'list')">Full Publications List</button>
 
-(* corresponding author &nbsp;·&nbsp; &dagger; equal contribution)
+(* corresponding author &nbsp;·&nbsp; <span class="eq-contrib">&dagger;</span> equal contribution)
 
 <div id="core-publications" class="publication-view" data-publication-view="core">
+
+<div class="publication-card pub-card--conference" data-category="all">
+  <div style="display: flex; align-items: center;">
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
+      <img src="images/new/personagest.jpg" alt="PersonaGest" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
+    </div>
+    <div>
+      <strong>PersonaGest: Personalized Co-Speech Gesture Generation with Semantic-Guided Hierarchical Motion Representation</strong><br>
+      <i style="font-size: 13px;">
+        <a href="https://danny-nus.github.io/" target="_blank">Junchuan Zhao</a><sup class="eq-contrib">†</sup>,
+        <a href="https://danny-nus.github.io/PersonaGest/" target="_blank"><strong>Qifan Liang</strong></a><sup class="eq-contrib">†</sup>,
+        <a href="https://www.comp.nus.edu.sg/cs/people/wangye/" target="_blank">Ye Wang</a>
+      </i><br>
+      A two-stage framework for personalized co-speech gesture generation that disentangles content from style via a semantic-guided RVQ-VAE, then uses masked generative and style residual transformers to produce semantically coherent, style-consistent gestures with fine-grained part-wise control.
+      <br>
+      <b><i style="color:#83a1c7;">arXiv 2026 &nbsp;</i></b>
+      <a href="https://arxiv.org/abs/2605.07252v1" target="_blank"><em>[arXiv]</em></a>
+      <a href="https://danny-nus.github.io/PersonaGest/" target="_blank"><em>[website]</em></a>
+    </div>
+  </div>
+</div>
 
 <div class="publication-card pub-card--conference" data-category="all">
   <div style="display: flex; align-items: center;">
@@ -511,8 +540,8 @@ Feel free to reach out if you are interested in collaboration or potential oppor
     <div>
       <strong>TED-TTS: Training-Free Intra-Utterance Emotion and Duration Control for Text-to-Speech Synthesis</strong><br>
       <i style="font-size: 13px;">
-        <a href="https://simon-leong.github.io/TED-TTS-DemoPage/" target="_blank"><strong>Qifan Liang</strong></a><sup>†</sup>,
-        Y Liu<sup>†</sup>, R Wei<sup>†</sup>, N Lu,
+        <a href="https://simon-leong.github.io/TED-TTS-DemoPage/" target="_blank"><strong>Qifan Liang</strong></a><sup class="eq-contrib">†</sup>,
+        Y Liu<sup class="eq-contrib">†</sup>, R Wei<sup class="eq-contrib">†</sup>, N Lu,
         <a href="https://danny-nus.github.io/" target="_blank">J Zhao*</a>,
         <a href="https://www.comp.nus.edu.sg/cs/people/wangye/" target="_blank">Ye Wang</a>
       </i><br>
@@ -549,27 +578,6 @@ Feel free to reach out if you are interested in collaboration or potential oppor
   </div>
 </div>
 
-<div class="publication-card pub-card--conference" data-category="all">
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
-      <img src="images/new/personagest.jpg" alt="PersonaGest" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
-    </div>
-    <div>
-      <strong>PersonaGest: Personalized Co-Speech Gesture Generation with Semantic-Guided Hierarchical Motion Representation</strong><br>
-      <i style="font-size: 13px;">
-        <a href="https://danny-nus.github.io/" target="_blank">Junchuan Zhao</a><sup>†</sup>,
-        <a href="https://danny-nus.github.io/PersonaGest/" target="_blank"><strong>Qifan Liang</strong></a><sup>†</sup>,
-        <a href="https://www.comp.nus.edu.sg/cs/people/wangye/" target="_blank">Ye Wang</a>
-      </i><br>
-      A two-stage framework for personalized co-speech gesture generation that disentangles content from style via a semantic-guided RVQ-VAE, then uses masked generative and style residual transformers to produce semantically coherent, style-consistent gestures with fine-grained part-wise control.
-      <br>
-      <b><i style="color:#83a1c7;">arXiv 2026 &nbsp;</i></b>
-      <a href="https://arxiv.org/abs/2605.07252v1" target="_blank"><em>[arXiv]</em></a>
-      <a href="https://danny-nus.github.io/PersonaGest/" target="_blank"><em>[website]</em></a>
-    </div>
-  </div>
-</div>
-
 <div class="publication-card pub-card--journal" data-category="all">
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
@@ -598,11 +606,24 @@ Feel free to reach out if you are interested in collaboration or potential oppor
 <div id="full-publications" class="publication-view" data-publication-view="list" hidden>
   <ul class="full-publication-list">
     <li>
+      <span class="pub-list-badge">arXiv 2026</span>
+      <span class="pub-list-title">PersonaGest: Personalized Co-Speech Gesture Generation with Semantic-Guided Hierarchical Motion Representation</span><br>
+      <span class="pub-list-authors">
+        <a href="https://danny-nus.github.io/" target="_blank">Junchuan Zhao</a><sup class="eq-contrib">†</sup>,
+        <strong>Qifan Liang</strong><sup class="eq-contrib">†</sup>,
+        <a href="https://www.comp.nus.edu.sg/cs/people/wangye/" target="_blank">Ye Wang</a>.
+      </span>
+      <span class="pub-list-links">
+        <a href="https://arxiv.org/abs/2605.07252v1" target="_blank">[arXiv]</a>
+        <a href="https://danny-nus.github.io/PersonaGest/" target="_blank">[website]</a>
+      </span>
+    </li>
+    <li>
       <span class="pub-list-badge">ACL 2026</span>
       <span style="display:inline-block;padding:1px 7px;border-radius:999px;background:#fef5f1;border:1px solid #f5bba7;color:#ca6f6f;font-size:10px;font-weight:700;vertical-align:middle;margin-right:4px;">🎙 Oral Nominee (SAC)</span>
       <span class="pub-list-title">TED-TTS: Training-Free Intra-Utterance Emotion and Duration Control for Text-to-Speech Synthesis</span><br>
       <span class="pub-list-authors">
-        <strong>Qifan Liang</strong><sup>†</sup>, Y Liu<sup>†</sup>, R Wei<sup>†</sup>, N Lu,
+        <strong>Qifan Liang</strong><sup class="eq-contrib">†</sup>, Y Liu<sup class="eq-contrib">†</sup>, R Wei<sup class="eq-contrib">†</sup>, N Lu,
         <a href="https://danny-nus.github.io/" target="_blank">J Zhao*</a>,
         <a href="https://www.comp.nus.edu.sg/cs/people/wangye/" target="_blank">Ye Wang</a>.
       </span>
@@ -623,19 +644,6 @@ Feel free to reach out if you are interested in collaboration or potential oppor
         <a href="https://arxiv.org/abs/2512.02780" target="_blank">[arXiv]</a>
         <a href="https://simon-leong.github.io/STSVD/" target="_blank">[website]</a>
         <a href="https://github.com/Simon-leong/STSVD" target="_blank">[code]</a>
-      </span>
-    </li>
-    <li>
-      <span class="pub-list-badge">arXiv 2026</span>
-      <span class="pub-list-title">PersonaGest: Personalized Co-Speech Gesture Generation with Semantic-Guided Hierarchical Motion Representation</span><br>
-      <span class="pub-list-authors">
-        <a href="https://danny-nus.github.io/" target="_blank">Junchuan Zhao</a><sup>†</sup>,
-        <strong>Qifan Liang</strong><sup>†</sup>,
-        <a href="https://www.comp.nus.edu.sg/cs/people/wangye/" target="_blank">Ye Wang</a>.
-      </span>
-      <span class="pub-list-links">
-        <a href="https://arxiv.org/abs/2605.07252v1" target="_blank">[arXiv]</a>
-        <a href="https://danny-nus.github.io/PersonaGest/" target="_blank">[website]</a>
       </span>
     </li>
     <li>
