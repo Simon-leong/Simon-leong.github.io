@@ -521,7 +521,7 @@ Feel free to reach out if you are interested in collaboration or potential oppor
       <i style="font-size: 13px;">
         <a href="https://danny-nus.github.io/" target="_blank">Junchuan Zhao</a><sup class="eq-contrib">†</sup>,
         <a href="https://danny-nus.github.io/PersonaGest/" target="_blank"><strong>Qifan Liang</strong></a><sup class="eq-contrib">†</sup>,
-        <a href="https://www.comp.nus.edu.sg/cs/people/wangye/" target="_blank">Ye Wang</a>
+        <a href="https://www.comp.nus.edu.sg/cs/people/wangye/" target="_blank">Ye Wang*</a>
       </i><br>
       A two-stage framework for personalized co-speech gesture generation that disentangles content from style via a semantic-guided RVQ-VAE, then uses masked generative and style residual transformers to produce semantically coherent, style-consistent gestures with fine-grained part-wise control.
       <br>
@@ -611,7 +611,7 @@ Feel free to reach out if you are interested in collaboration or potential oppor
       <span class="pub-list-authors">
         <a href="https://danny-nus.github.io/" target="_blank">Junchuan Zhao</a><sup class="eq-contrib">†</sup>,
         <strong>Qifan Liang</strong><sup class="eq-contrib">†</sup>,
-        <a href="https://www.comp.nus.edu.sg/cs/people/wangye/" target="_blank">Ye Wang</a>.
+        <a href="https://www.comp.nus.edu.sg/cs/people/wangye/" target="_blank">Ye Wang*</a>.
       </span>
       <span class="pub-list-links">
         <a href="https://arxiv.org/abs/2605.07252v1" target="_blank">[arXiv]</a>
