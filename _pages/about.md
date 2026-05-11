@@ -474,7 +474,7 @@ Feel free to reach out if you are interested in collaboration or potential oppor
 <div class="experience-container">
 
   <div class="experience-card">
-    <img src="images/NUS.png" alt="NUS logo" class="experience-logo">
+    <img src="images/smc_lab_logo.png" alt="SMC Lab logo" class="experience-logo">
     <div class="experience-info">
       <strong>National University of Singapore - SMC Lab</strong><br>
       <em>2025.11 – Present</em><br>
