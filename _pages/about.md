@@ -551,6 +551,7 @@ Feel free to reach out if you are interested in collaboration or potential oppor
       <span class="oral-badge" style="display:inline-block;padding:1px 8px;border-radius:999px;background:#fef5f1;border:1px solid #f5bba7;color:#ca6f6f;font-size:11px;font-weight:700;vertical-align:middle;">🎙 Oral Nominee (SAC)</span>
       <a href="https://arxiv.org/abs/2601.03170" target="_blank"><em>[arXiv]</em></a>
       <a href="https://simon-leong.github.io/TED-TTS-DemoPage/" target="_blank"><em>[website]</em></a>
+      <a href="https://github.com/Simon-leong/TED-TTS" target="_blank"><em>[code]</em></a>
     </div>
   </div>
 </div>
@@ -630,6 +631,7 @@ Feel free to reach out if you are interested in collaboration or potential oppor
       <span class="pub-list-links">
         <a href="https://arxiv.org/abs/2601.03170" target="_blank">[arXiv]</a>
         <a href="https://simon-leong.github.io/TED-TTS-DemoPage/" target="_blank">[website]</a>
+        <a href="https://github.com/Simon-leong/TED-TTS" target="_blank">[code]</a>
       </span>
     </li>
     <li>
